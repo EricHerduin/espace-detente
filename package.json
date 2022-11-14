@@ -1,7 +1,7 @@
 {
   "name": "espace-detente",
   "version": "0.1.0",
-  "homepage": "https://github.com/eH-Tag/espace-detente",
+  "homepage": "https://ericherduin.github.io/espace-detente",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
